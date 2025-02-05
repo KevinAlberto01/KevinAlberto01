@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Robotics Engineer | Technology Innovator | AI & Automation Enthusiast</h3>
 
 ###
